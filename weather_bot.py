@@ -3,7 +3,7 @@ import requests
 import json
 
 # Настройки
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "8493346077:AAFTm8EcT6toKtbqsEDOm501xdC7eDqjpsw"
 WEATHER_API_KEY = "API"  # Получите на openweathermap.org
 
 bot = telebot.TeleBot(BOT_TOKEN)
